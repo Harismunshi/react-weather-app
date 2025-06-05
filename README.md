@@ -74,7 +74,7 @@ weather-app/
 
 | Platform     | Link                                                                 |
 | ------------ | -------------------------------------------------------------------- |
-| 💼 LinkedIn  | www.linkedin.com/in/harismunshi                                      |
+| 💼 LinkedIn  | www.linkedin.com/in/harismunshi                                      |        
 | 🌐 Portfolio | https://harismunshi.github.io/portfolio                              |
 
 
