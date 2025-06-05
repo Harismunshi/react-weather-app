@@ -49,17 +49,6 @@ weather-app/
 └── README.md
 
 
-✨ Features In-Depth
-
-| Feature                | Description                                             |
-| --------------------   | ------------------------------------------------------- |
-| 🔎 Search Input       |  Dynamic search using city name                          |
-| 🕹️ Keyboard + Click   |   Search by hitting Enter or clicking the search icon     |
-| 📅 Current Date       |  Display current date in human-readable format           |
-| 🌡️ Temperature        |   Fetched in °C with simple `Math.round()` for clean look |
-| 🎨 Warm/Cold Theme    |  Conditional background styling based on temperature     |
-
-
 🌱 Future Improvements
 🌍 Add geolocation support
 
@@ -70,11 +59,5 @@ weather-app/
 🗺️ Autocomplete cities using a 3rd-party API
 
 
-🔗 Connect with Me
-
-| Platform     | Link                                                                 |
-| ------------ | -------------------------------------------------------------------- |
-| 💼 LinkedIn  | www.linkedin.com/in/harismunshi                                      |        
-| 🌐 Portfolio | https://harismunshi.github.io/portfolio                              |
 
 
